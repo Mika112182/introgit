@@ -2,3 +2,4 @@ gitの練習を開始します
 テストです
 git remove
 git status
+git diff
